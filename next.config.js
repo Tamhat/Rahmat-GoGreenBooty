@@ -48,5 +48,9 @@ module.exports = withVideos({
 
     return config;
   },
+  experimental: {
+    webpackBundleAnalyzer: true,
+    webpackBundleWorker: true,
+  },
   // other configs
 });
