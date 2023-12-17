@@ -1,0 +1,321 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[3]!./src/sections/commercial-orders/header/commercial.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************/
+.animate__animated_commercial {
+    position: relative !important;
+    top: 18% !important
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"src\\theme\\theme.js","import":"","arguments":[{"src":[{"path":"./font/bandanova/BandaNova-Light.ttf","weight":"300","style":"light"},{"path":"./font/bandanova/BandaNova-Medium.ttf","weight":"400","style":"light"},{"path":"./font/bandanova/BandaNova-Bold.ttf","weight":"500","style":"light"}]}],"variableName":"bandaNova"} ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__bandaNova_fbb555';
+src: url(/_next/static/media/bc6123e2832ccf00-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 300;
+font-style: light;
+}
+
+@font-face {
+font-family: '__bandaNova_fbb555';
+src: url(/_next/static/media/835a75c50a7c46ee-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 400;
+font-style: light;
+}
+
+@font-face {
+font-family: '__bandaNova_fbb555';
+src: url(/_next/static/media/b69ef205852aacc0-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 500;
+font-style: light;
+}@font-face {font-family: '__bandaNova_Fallback_fbb555';src: local("Arial");ascent-override: 91.12%;descent-override: 26.03%;line-gap-override: 0.00%;size-adjust: 115.24%
+}.__className_fbb555 {font-family: '__bandaNova_fbb555', '__bandaNova_Fallback_fbb555'
+}
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[3]!./src/app/commercial-orders/com.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.showcase{
+    width: 100%!important
+}
+.subshowcase img{
+    width:100%!important;
+    height:auto!important
+}
+.subshowcase .MuiTypography-root.MuiTypography-body1.mui-kmj783-MuiTypography-root{
+    padding: 10px!important;
+    text-align:center!important;
+    font-size: 14px;
+}
+
+.product-card{
+    display: flex!important;
+}
+.product-card ul{
+    display: flex!important;
+}
+.productX {
+    width: 150px !important;
+}
+
+.productY {
+    width: 350px !important;
+}
+
+.productZ {
+    width: 100px !important;
+}
+
+/*!**************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[3]!./src/app/page.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************/
+.subContainer1 {
+    padding-left: 57px !important;
+    padding-right: 57px !important;
+    margin-top: -200px !important;
+}
+
+.subContainer3 {
+    padding-left: 57px !important;
+    padding-right: 57px !important;
+}
+
+.subContainer4 {
+    padding-left: 90px !important;
+    padding-right: 80px !important;
+}
+
+.subContainer6 {
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+}
+
+.subContainer2 {
+    padding-left: 57px !important;
+    padding-right: 57px !important;
+    /* margin-top: -200px !important; */
+}
+
+.mui-68lmre-MuiContainer-root {
+    padding-left: 140px !important;
+    padding-right: 140px !important;
+}
+
+.child-container {
+    max-width: 31% !important;
+    margin: 0 14px !important;
+}
+
+.mui-1mhkjzs-MuiPaper-root-MuiCard-root {
+    border-radius: 49px !important
+}
+
+.whyUsSlider {
+    margin-left: 80px !important;
+}
+
+.whyUsSlider2 {
+    border-radius: 60px !important;
+}
+
+/* .gogreen{
+   padding: 73px 60px!important;
+} */
+
+.gogreenimage {
+    padding: 80px 0 50px 0 !important;
+}
+
+.gogreenbtn {
+    border-radius: 40px !important;
+    min-height: 127px !important;
+    padding-bottom: 20px !important;
+}
+
+.gogreencontain {
+    margin: 20px;
+}
+
+.product_head { 
+    font-size: 1px!important;
+}
+.subgocontain {
+    margin: 0 auto !important;
+}
+
+.letsTest ul.splide__pagination.splide__pagination--ltr {
+    bottom: 2%;
+    right: auto !important;
+    left: 45% !important;
+    padding-top: 45px;
+}
+
+.letsTest .splide__pagination__page {
+    background: rgb(204, 204, 204);
+    margin: 0 6px;
+    width: 9px;
+    height: 9px;
+}
+
+.letsTest .splide__pagination__page.is-active {
+    background: rgb(2, 238, 255);
+    transform: scale(1);
+}
+
+/* .letsTest .splide__arrow--prev{
+    position: relative;
+    left: 3%;
+    top: 34%;
+} */
+.letsTest .splide__pagination .mui-1g8qmdb {
+    background-color: #00C5F6;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.downContainer {
+    box-shadow: -0.7794860601425171px 3.1179442405700684px 17.148691177368164px rgba(82.87, 82.87, 82.87, 0.12);
+    background-color: #FFFFFF;
+    color: #FFFFFF;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    overflow: visible;
+    border-radius: 32px;
+    width: 92% !important;
+    margin-left: 71px;
+    padding-bottom: 3rem;
+}
+
+.askQuestions {
+    /* height:100%!important; */
+    margin-top: -5% !important;
+    padding: 40px;
+}
+
+.askQuestions1 {
+    width: 85% !important;
+    height: 430px !important;
+}
+
+.inputField input[type="text"] {
+    height: 100px;
+    font-size: 16px;
+    font-weight: 500;
+    border-top-right-radius: 50px;
+}
+
+.splide__track {
+    overflow: visible !important;
+}
+
+.productA {
+    width: 150px !important;
+}
+
+.productB {
+    width: 400px !important;
+}
+
+.productC {
+    width: 100px !important;
+}
+
+@media screen and (max-width: 900px) {
+    body {
+        overflow-x: hidden !important;
+    }
+
+    #sub1.splide__arrow--prev {
+        width: 50px;
+        height: 50px;
+        left: 0em;
+        font-size: 7px;
+    }
+
+    #sub2.splide__arrow--next {
+        width: 50px;
+        height: 50px;
+        right: 0em;
+        font-size: 7px !important;
+    }
+
+    .subContainer2 {
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+    }
+
+    .askQuestions {
+        /* height:100%!important; */
+        margin-top: -5% !important;
+        padding: 0px !important;
+    }
+
+    .askQuestions1 {
+        width: 100% !important;
+        height: 100% !important;
+        padding-bottom: 52px;
+    }
+
+    .inputField input[type="text"] {
+        height: 100px;
+        font-size: 16px;
+        font-weight: 500;
+        border-top-right-radius: 50px;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+
+    /* Your styles for the specified media query */
+    .mui-11meqwa-MuiTypography-root {
+        font-size: 27px !important;
+    }
+
+    .downContainer {
+        box-shadow: ivory !important;
+        background-color: #FFFFFF;
+        color: #FFFFFF;
+        transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+        overflow: visible !important;
+        border-radius: none !important;
+        width: auto !important;
+        margin-left: 0 !important;
+        padding-bottom: 0rem;
+        padding: 20px !important;
+        width: 100vw !important;
+    }
+
+    .gogreencontain {
+        margin: auto !important;
+    }
+
+    .gogreenimage {
+        padding: 55px 0 24px 0 !important;
+    }
+
+    .gogreenbtn {
+        min-height: 47px !important;
+        padding-bottom: 0px !important;
+        width: 350px;
+    }
+
+    /* .splide__arrow{
+        position: relative;
+        top: -25%;
+    } */
+    .letsTest ul.splide__pagination.splide__pagination--ltr {
+        bottom: 2%;
+        right: auto !important;
+        left: 37% !important;
+        padding-top: 45px;
+        display: none !important;
+    }
+
+    .whySwitchHeading {
+        text-align: center !important;
+    }
+}

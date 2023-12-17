@@ -1,0 +1,55 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"src\\app\\layout.js","import":"Inter","arguments":[{"subsets":["latin"],"weights":[400.0,500.0,600.0,700.0]}],"variableName":"inter"} ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+  font-family: '__Inter_Fallback_725fdb';
+  src: local("Arial");
+  ascent-override:90.20%;
+  descent-override:22.48%;
+  line-gap-override:0.00%;
+  size-adjust:107.40%;
+}@font-face {font-family: '__Inter_Fallback_Fallback_725fdb';src: local("Arial");ascent-override: 90.20%;descent-override: 22.48%;line-gap-override: 0.00%;size-adjust: 107.40%
+}.__className_725fdb {font-family: '__Inter_Fallback_725fdb', '__Inter_Fallback_Fallback_725fdb';font-style: normal
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"src\\theme\\theme.js","import":"","arguments":[{"src":[{"path":"./font/bandanova/BandaNova-Light.ttf","weight":"300","style":"light"},{"path":"./font/bandanova/BandaNova-Medium.ttf","weight":"400","style":"light"},{"path":"./font/bandanova/BandaNova-Bold.ttf","weight":"500","style":"light"}]}],"variableName":"bandaNova"} ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__bandaNova_fbb555';
+src: url(/_next/static/media/bc6123e2832ccf00-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 300;
+font-style: light;
+}
+
+@font-face {
+font-family: '__bandaNova_fbb555';
+src: url(/_next/static/media/835a75c50a7c46ee-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 400;
+font-style: light;
+}
+
+@font-face {
+font-family: '__bandaNova_fbb555';
+src: url(/_next/static/media/b69ef205852aacc0-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 500;
+font-style: light;
+}@font-face {font-family: '__bandaNova_Fallback_fbb555';src: local("Arial");ascent-override: 91.12%;descent-override: 26.03%;line-gap-override: 0.00%;size-adjust: 115.24%
+}.__className_fbb555 {font-family: '__bandaNova_fbb555', '__bandaNova_Fallback_fbb555'
+}
+
+/*!************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[12].use[3]!./src/components/nav/nav.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************/
+.top-nav{
+    min-height: 10px!important;
+    height:10px;
+    padding:20px 500px 0 0;
+}
+.bottom-nav{
+    min-height: 10px!important;
+    height:10px;
+    padding:10px 0 40px 0;
+}
